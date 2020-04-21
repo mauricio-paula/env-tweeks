@@ -1,0 +1,5 @@
+/storage/osmc/movies /home/osmc/movies cifs x-systemd.automount,credentials=/root/.osmc,uid=osmc,gid=osmc,file_mode=0770,dir_mode=0770 0 0
+//storage/osmc/music /home/osmc/music cifs x-systemd.automount,credentials=/root/.osmc,uid=osmc,gid=osmc,file_mode=0770,dir_mode=0770 0 0
+//storage/osmc/pictures /home/osmc/pictures cifs x-systemd.automount,credentials=/root/.osmc,uid=osmc,gid=osmc,file_mode=0770,dir_mode=0770 0 0
+//storage/osmc/tvshows /home/osmc/tvshows cifs x-systemd.automount,credentials=/root/.osmc,uid=osmc,gid=osmc,file_mode=0770,dir_mode=0770 0 0
+//storage/osmc/downloads /home/osmc/downloads cifs x-systemd.automount,credentials=/root/.osmc,uid=osmc,gid=osmc,file_mode=0770,dir_mode=0770 0 0
